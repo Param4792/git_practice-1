@@ -1,20 +1,20 @@
 Mammals
 1 Dolphin - David
-2
-3
-4
+2 Blue Whale - Matthew
+3 Elephant - Paramjot
+4 Platypus - Mason
 Reptiles
 1 Lizard - David
-2
-3
-4
+2 Snake - Matthew
+3 Turtle - Paramjot
+4 Kommodo Dragon - Mason
 Fish
 1 Puffer Fish - David
-2
-3
-4
+2 Clown Fish - Matthew
+3 Star Fish - Paramjot
+4 Swordfish - Mason
 Birds
 1 Bald eagle - David
-2
-3
-4
+2 Owl - Matthew
+3 Sparrow - Paramjot
+4 Albatross - Mason
